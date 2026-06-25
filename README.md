@@ -2,7 +2,7 @@
 
 ## About Me:
 
-**Final year CS student at MMMUT Gorakhpur, currently interning at Accenture Mumbai as an Associate Software Engineer. My work there is around Generative AI — specifically building a RAG-based system that lets you query business documents and actually get accurate answers back.**
+**Final year CSE student at MMMUT Gorakhpur, currently interning at Accenture Mumbai as an Associate Software Engineer. My work there is around Generative AI — specifically building a RAG-based system that lets you query business documents and actually get accurate answers back.**
 
 **Before Accenture, I was at Kineticore where I built a full-stack app from scratch that went live with real users — auth, file uploads, database design, the whole thing.**
 
